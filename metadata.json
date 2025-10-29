@@ -1,0 +1,5 @@
+{
+  "name": "Library Management System",
+  "description": "A modern, responsive library management system for administrators to manage books, members, and loans. Features an intuitive dashboard and AI-powered book suggestions.",
+  "requestFramePermissions": []
+}
